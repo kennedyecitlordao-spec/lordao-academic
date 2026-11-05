@@ -1,0 +1,22 @@
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores e IDEs
+.vscode/
+.idea/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+*.pem
+*.key
+
+# Arquivos de rascunho
+_preview.html
+
+# Dependências e builds (não usados no projeto atual)
+node_modules/
+dist/
+build/
